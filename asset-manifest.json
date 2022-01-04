@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.2cafff40.css",
-    "main.js": "/React-Portfolio/static/js/main.d84068ea.js",
+    "main.css": "/React-Portfolio/static/css/main.83175fae.css",
+    "main.js": "/React-Portfolio/static/js/main.77e70152.js",
     "static/js/787.cf250828.chunk.js": "/React-Portfolio/static/js/787.cf250828.chunk.js",
     "static/media/minimalist-nature-wallpaper.jpg": "/React-Portfolio/static/media/minimalist-nature-wallpaper.071975221655d921467e.jpg",
     "static/media/Jimmy-Zheng-Resume.pdf": "/React-Portfolio/static/media/Jimmy-Zheng-Resume.1f2eec5893c717bbfc9b.pdf",
     "index.html": "/React-Portfolio/index.html",
-    "main.2cafff40.css.map": "/React-Portfolio/static/css/main.2cafff40.css.map",
-    "main.d84068ea.js.map": "/React-Portfolio/static/js/main.d84068ea.js.map",
+    "main.83175fae.css.map": "/React-Portfolio/static/css/main.83175fae.css.map",
+    "main.77e70152.js.map": "/React-Portfolio/static/js/main.77e70152.js.map",
     "787.cf250828.chunk.js.map": "/React-Portfolio/static/js/787.cf250828.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2cafff40.css",
-    "static/js/main.d84068ea.js"
+    "static/css/main.83175fae.css",
+    "static/js/main.77e70152.js"
   ]
 }
