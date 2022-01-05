@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.83175fae.css",
-    "main.js": "/React-Portfolio/static/js/main.3d3afcc1.js",
+    "main.js": "/React-Portfolio/static/js/main.0893fff6.js",
     "static/js/787.cf250828.chunk.js": "/React-Portfolio/static/js/787.cf250828.chunk.js",
     "static/media/minimalist-nature-wallpaper.jpg": "/React-Portfolio/static/media/minimalist-nature-wallpaper.071975221655d921467e.jpg",
     "static/media/Jimmy-Zheng-Resume.pdf": "/React-Portfolio/static/media/Jimmy-Zheng-Resume.de026a586bdb495eb5eb.pdf",
     "index.html": "/React-Portfolio/index.html",
     "main.83175fae.css.map": "/React-Portfolio/static/css/main.83175fae.css.map",
-    "main.3d3afcc1.js.map": "/React-Portfolio/static/js/main.3d3afcc1.js.map",
+    "main.0893fff6.js.map": "/React-Portfolio/static/js/main.0893fff6.js.map",
     "787.cf250828.chunk.js.map": "/React-Portfolio/static/js/787.cf250828.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.83175fae.css",
-    "static/js/main.3d3afcc1.js"
+    "static/js/main.0893fff6.js"
   ]
 }
