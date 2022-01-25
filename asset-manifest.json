@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.02ac04e6.css",
-    "main.js": "/React-Portfolio/static/js/main.9b03dea6.js",
+    "main.js": "/React-Portfolio/static/js/main.7da8edb9.js",
     "static/js/787.cf250828.chunk.js": "/React-Portfolio/static/js/787.cf250828.chunk.js",
     "static/media/minimalist-nature-wallpaper.jpg": "/React-Portfolio/static/media/minimalist-nature-wallpaper.071975221655d921467e.jpg",
     "static/media/shopping-low.jpeg": "/React-Portfolio/static/media/shopping-low.c6269e644c64aace6a65.jpeg",
@@ -16,17 +16,18 @@
     "static/media/programming-low.jpeg": "/React-Portfolio/static/media/programming-low.e6a782bd44ff7c893d41.jpeg",
     "static/media/team-low.jpeg": "/React-Portfolio/static/media/team-low.1d59359570855a5b19cb.jpeg",
     "static/media/employee-low.jpeg": "/React-Portfolio/static/media/employee-low.b05a447f106305bbd04c.jpeg",
+    "static/media/backend-low.jpeg": "/React-Portfolio/static/media/backend-low.b0c710a76dac226c50b3.jpeg",
     "static/media/music-trivia-logo.png": "/React-Portfolio/static/media/music-trivia-logo.a9f73b15d9575efd788f.png",
     "static/media/budget-low.jpeg": "/React-Portfolio/static/media/budget-low.77c9dcfb962a3102fdc3.jpeg",
     "static/media/quiz-low.jpeg": "/React-Portfolio/static/media/quiz-low.099a60193cc874a0dfdf.jpeg",
     "static/media/microsoft.jpeg": "/React-Portfolio/static/media/microsoft.6b0caea976e82f384553.jpeg",
     "index.html": "/React-Portfolio/index.html",
     "main.02ac04e6.css.map": "/React-Portfolio/static/css/main.02ac04e6.css.map",
-    "main.9b03dea6.js.map": "/React-Portfolio/static/js/main.9b03dea6.js.map",
+    "main.7da8edb9.js.map": "/React-Portfolio/static/js/main.7da8edb9.js.map",
     "787.cf250828.chunk.js.map": "/React-Portfolio/static/js/787.cf250828.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.02ac04e6.css",
-    "static/js/main.9b03dea6.js"
+    "static/js/main.7da8edb9.js"
   ]
 }
