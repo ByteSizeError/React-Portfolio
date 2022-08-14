@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.80d28436.css",
-    "main.js": "/React-Portfolio/static/js/main.ec93144a.js",
+    "main.js": "/React-Portfolio/static/js/main.d73dc198.js",
     "static/js/787.cf250828.chunk.js": "/React-Portfolio/static/js/787.cf250828.chunk.js",
     "static/media/minimalist-nature-wallpaper.jpg": "/React-Portfolio/static/media/minimalist-nature-wallpaper.071975221655d921467e.jpg",
     "static/media/shopping-low.jpeg": "/React-Portfolio/static/media/shopping-low.c6269e644c64aace6a65.jpeg",
@@ -23,11 +23,11 @@
     "static/media/microsoft.jpeg": "/React-Portfolio/static/media/microsoft.6b0caea976e82f384553.jpeg",
     "index.html": "/React-Portfolio/index.html",
     "main.80d28436.css.map": "/React-Portfolio/static/css/main.80d28436.css.map",
-    "main.ec93144a.js.map": "/React-Portfolio/static/js/main.ec93144a.js.map",
+    "main.d73dc198.js.map": "/React-Portfolio/static/js/main.d73dc198.js.map",
     "787.cf250828.chunk.js.map": "/React-Portfolio/static/js/787.cf250828.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.80d28436.css",
-    "static/js/main.ec93144a.js"
+    "static/js/main.d73dc198.js"
   ]
 }
